@@ -66,5 +66,5 @@ rule plot_quals:
     output:
         "plots/quals.svg"
     script:
-        "scripts/plot-quals.py"
+        "plot-quals.py"
 
